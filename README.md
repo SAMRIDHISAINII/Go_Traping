@@ -12,7 +12,7 @@ Welcome! This is a curated guide to help you learn **Go (Golang)** — starting 
 - [📚 Common Interview Questions](#-common-interview-questions)
 - [🔗 External Resources](#-external-resources)
 
----
+--
 
 ## ✨ Why Go?
 
