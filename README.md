@@ -3,9 +3,7 @@
 # 📘 Learn Go (Golang): Basics → Advanced → Interview Prep
 
 Welcome! This is a curated guide to help you learn **Go (Golang)** — starting from basics, moving to advanced topics, and finally preparing for interviews.
-
 ---
-
 ## 📌 Table of Contents
 - [✨ Why Go?](#-why-go)
 - [🐣 Go Basics](#-go-basics)
